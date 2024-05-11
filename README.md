@@ -58,4 +58,4 @@
 
 ---
 
-<center>[![](https://visitcount.itsvg.in/api?id=asma019&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)</center>
+[![](https://visitcount.itsvg.in/api?id=asma019&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
