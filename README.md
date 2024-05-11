@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Mehedi+Hasan!;Web+Developer!+🧑‍💻;" />
 </h1>
 
-<h3 align="center">An aspiring Software Engineer from Dhaka 🇧🇩</h3>
+<h3 align="center">An aspiring Web Developer from Khulna 🇧🇩</h3>
 
 <br/>
 
