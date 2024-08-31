@@ -4,7 +4,6 @@
 
 <h3 align="center">An aspiring Web Developer from Khulna 🇧🇩</h3>
 <br/>
-[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)]
 <div align="center">
  
  👨🏻‍💻 I’m currently working on **Fiverr**
@@ -56,4 +55,5 @@
 <br/>
 
 ---
+[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)]
 [![](https://visitcount.itsvg.in/api?id=asma019&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
