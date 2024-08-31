@@ -55,5 +55,5 @@
 <br/>
 
 ---
-[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)]
+![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)
 [![](https://visitcount.itsvg.in/api?id=asma019&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
