@@ -3,8 +3,7 @@
 </h1>
 
 <h3 align="center">An aspiring Web Developer from Khulna 🇧🇩</h3>
-<h3 align="center">[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)</h3>
-
+[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
 <br/>
 
 <div align="center">
