@@ -15,7 +15,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:info@bdix.me" target="_blank">
+  <a href="mailto:hello@mehedims.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/mehedibs-blog/" target="_blank">
